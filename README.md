@@ -23,8 +23,8 @@ The project provides in-depth analysis of:
 
 | File | Description |
 |------|-------------|
-| `Capstone_Paper.pdf` | Final report |
-| `Figures/` | Stakeholder maps or value chain diagrams |
+| `Strategic Analysis of Tesla Inc.pdf` | Final report |
+| `Tesla's Competitive Strategy Analysis.pdf` | Final report |
 | `References/` | Full list of APA 7-style citations |
 
 ---
